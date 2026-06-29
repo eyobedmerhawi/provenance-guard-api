@@ -1,0 +1,141 @@
+[
+  {
+    "timestamp": "2026-06-29T06:49:41.237671",
+    "event_type": "submission",
+    "content_id": "243307a2-12fb-4109-bd33-47049131ec0f",
+    "creator_id": "eyobed",
+    "attribution": "likely_ai",
+    "confidence": 0.77,
+    "llm_score": 0.85,
+    "stylometric_score": 0.7,
+    "label": "Likely AI-Generated: Our system has high confidence that this content was generated with the assistance of artificial intelligence.",
+    "status": "classified"
+  },
+  {
+    "timestamp": "2026-06-29T06:50:27.611131",
+    "event_type": "appeal",
+    "content_id": "PASTE_YOUR_CONTENT_ID_HERE",
+    "creator_reasoning": "I wrote this myself and believe the classification should be reviewed.",
+    "status": "under_review"
+  },
+  {
+    "timestamp": "2026-06-29T06:52:17.141611",
+    "event_type": "submission",
+    "content_id": "9e2d866a-1575-4718-8512-ecc977843bcb",
+    "creator_id": "eyobed",
+    "attribution": "likely_ai",
+    "confidence": 0.77,
+    "llm_score": 0.85,
+    "stylometric_score": 0.7,
+    "label": "Likely AI-Generated: Our system has high confidence that this content was generated with the assistance of artificial intelligence.",
+    "status": "classified"
+  },
+  {
+    "timestamp": "2026-06-29T06:52:17.375811",
+    "event_type": "submission",
+    "content_id": "d818d2ac-df70-407a-8638-78b2ba8f950f",
+    "creator_id": "eyobed",
+    "attribution": "likely_ai",
+    "confidence": 0.77,
+    "llm_score": 0.85,
+    "stylometric_score": 0.7,
+    "label": "Likely AI-Generated: Our system has high confidence that this content was generated with the assistance of artificial intelligence.",
+    "status": "classified"
+  },
+  {
+    "timestamp": "2026-06-29T06:52:17.482288",
+    "event_type": "submission",
+    "content_id": "93600d94-f3a6-4ef5-a3b2-80a42aa38283",
+    "creator_id": "eyobed",
+    "attribution": "likely_ai",
+    "confidence": 0.77,
+    "llm_score": 0.85,
+    "stylometric_score": 0.7,
+    "label": "Likely AI-Generated: Our system has high confidence that this content was generated with the assistance of artificial intelligence.",
+    "status": "classified"
+  },
+  {
+    "timestamp": "2026-06-29T06:52:17.584613",
+    "event_type": "submission",
+    "content_id": "f5007d82-f65e-454e-a367-d176f0b90666",
+    "creator_id": "eyobed",
+    "attribution": "likely_ai",
+    "confidence": 0.77,
+    "llm_score": 0.85,
+    "stylometric_score": 0.7,
+    "label": "Likely AI-Generated: Our system has high confidence that this content was generated with the assistance of artificial intelligence.",
+    "status": "classified"
+  },
+  {
+    "timestamp": "2026-06-29T06:52:17.818449",
+    "event_type": "submission",
+    "content_id": "0f084718-73c8-43a8-9530-2331d7145e50",
+    "creator_id": "eyobed",
+    "attribution": "likely_ai",
+    "confidence": 0.77,
+    "llm_score": 0.85,
+    "stylometric_score": 0.7,
+    "label": "Likely AI-Generated: Our system has high confidence that this content was generated with the assistance of artificial intelligence.",
+    "status": "classified"
+  },
+  {
+    "timestamp": "2026-06-29T06:52:18.054269",
+    "event_type": "submission",
+    "content_id": "73543e2f-62ea-4853-93a5-8f4f842486d4",
+    "creator_id": "eyobed",
+    "attribution": "likely_ai",
+    "confidence": 0.77,
+    "llm_score": 0.85,
+    "stylometric_score": 0.7,
+    "label": "Likely AI-Generated: Our system has high confidence that this content was generated with the assistance of artificial intelligence.",
+    "status": "classified"
+  },
+  {
+    "timestamp": "2026-06-29T06:52:18.292467",
+    "event_type": "submission",
+    "content_id": "ba97acdc-6026-40f9-9ef1-f999f55a3f62",
+    "creator_id": "eyobed",
+    "attribution": "likely_ai",
+    "confidence": 0.77,
+    "llm_score": 0.85,
+    "stylometric_score": 0.7,
+    "label": "Likely AI-Generated: Our system has high confidence that this content was generated with the assistance of artificial intelligence.",
+    "status": "classified"
+  },
+  {
+    "timestamp": "2026-06-29T06:52:18.569941",
+    "event_type": "submission",
+    "content_id": "799da116-97cd-4983-92af-8ee872cdac4d",
+    "creator_id": "eyobed",
+    "attribution": "likely_ai",
+    "confidence": 0.77,
+    "llm_score": 0.85,
+    "stylometric_score": 0.7,
+    "label": "Likely AI-Generated: Our system has high confidence that this content was generated with the assistance of artificial intelligence.",
+    "status": "classified"
+  },
+  {
+    "timestamp": "2026-06-29T06:52:18.689823",
+    "event_type": "submission",
+    "content_id": "7ea9af9a-3285-4e43-b346-7a63e401b5cd",
+    "creator_id": "eyobed",
+    "attribution": "likely_ai",
+    "confidence": 0.77,
+    "llm_score": 0.85,
+    "stylometric_score": 0.7,
+    "label": "Likely AI-Generated: Our system has high confidence that this content was generated with the assistance of artificial intelligence.",
+    "status": "classified"
+  },
+  {
+    "timestamp": "2026-06-29T06:52:18.953220",
+    "event_type": "submission",
+    "content_id": "6c5afd68-6147-4ffe-bfa2-fdc0b4eaf3b1",
+    "creator_id": "eyobed",
+    "attribution": "likely_ai",
+    "confidence": 0.77,
+    "llm_score": 0.85,
+    "stylometric_score": 0.7,
+    "label": "Likely AI-Generated: Our system has high confidence that this content was generated with the assistance of artificial intelligence.",
+    "status": "classified"
+  }
+]
